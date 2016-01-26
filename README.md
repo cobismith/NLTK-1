@@ -1,4 +1,4 @@
 # NLTK
 NLTK notebook
 
-currently moving from Python2 to Python3
+including Cobi's notes from training the trainers for University of Melbourne Research Bazaar 
